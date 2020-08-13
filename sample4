@@ -1,0 +1,4 @@
+Contents of the Elastic Beanstalk Amazon S3 bucket
+The following table lists some objects that Elastic Beanstalk stores in your elasticbeanstalk-* Amazon S3 bucket. The table also shows which objects have to be deleted manually. To avoid unnecessary storage costs, and to ensure that personal information isn't retained, be sure to manually delete these objects when you no longer need them.
+
+
